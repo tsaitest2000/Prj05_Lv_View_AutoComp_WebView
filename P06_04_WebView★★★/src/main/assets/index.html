@@ -1,0 +1,21 @@
+<html>
+<header>
+    <script language="JavaScript">
+        function add() {
+            var q1 = document.getElementById("q1");
+            var q2 = document.getElementById("q2");
+            var ans = eval(q1.value) + eval(q2.value);
+            var sp = document.getElementById("ans");
+            sp.innerHTML = ans;
+        }
+    </script>
+</header>
+<body>
+<h1>Hello World!</h1>
+
+<p><input type="text" name="q1" id="q1" size="5" /> + <input type="text" name="q2" id="q2" size="5" /></p>
+<p><input type="button" onclick="add()" value="= " ><span id="ans" /> </p>
+<p><a href="sec.html">連到第二頁</a></p>
+
+</body>
+</html>
