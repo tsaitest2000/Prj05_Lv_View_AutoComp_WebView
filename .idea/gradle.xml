@@ -8,10 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/P06_01_ListView雙層清單" />
-            <option value="$PROJECT_DIR$/P06_02_各種元件" />
-            <option value="$PROJECT_DIR$/P06_03_AutoCompleteTv" />
-            <option value="$PROJECT_DIR$/P06_04_WebView★★★" />
+            <option value="$PROJECT_DIR$/P05_01_ListView雙層清單" />
+            <option value="$PROJECT_DIR$/P05_02_各種元件" />
+            <option value="$PROJECT_DIR$/P05_03_AutoCompleteTv" />
+            <option value="$PROJECT_DIR$/P05_04_WebView★★★" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
